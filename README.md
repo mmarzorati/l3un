@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @l3un
-- 👀 I have just started to coding
-- 🌱 I’m currently learning Javascript
+- 👀 I am a  junior front-end developer
+- 🌱 I’m currently learning Vue.js and Angular
